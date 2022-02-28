@@ -22,8 +22,8 @@ The goal of this project is to create 'MNIST' digits using a Wasserstein GAN (ge
 Training of the model involves running _train.py_ then _inference.py_ to create the visuals
 
 ### Examples of what the model can achieve:
-![image](./imgs/14.png =456x456) 
+![image](./imgs/14.png) 
 
 ### An Example of an interpolation through latent space of the trained model:
-![alt text](./imgs/animation.gif =456x456)
+![alt text](./imgs/animation.gif)
 
